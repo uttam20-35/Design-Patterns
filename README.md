@@ -11,7 +11,7 @@ Hands-on design patterns
 > i.Factory 
 > ii.Builder  
 2) Structural 
->i. 
+>i. Adapter
 3) Behavioural 
 
 
