@@ -8,9 +8,10 @@ Hands-on design patterns
 
 # Types of Design Patterns
 1) Creational
-   - 
-3) Structural
-4) Behavioural 
+> i.Factory: Most used design pattern.
+> ii.Builder:  
+2) Structural
+3) Behavioural 
 
 
  
